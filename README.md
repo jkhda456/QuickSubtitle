@@ -1,6 +1,7 @@
 # QuickSubtitle
 Quick Subtitle using AI
 
+To solve my annoyance..
 
 ## Quickstart
 

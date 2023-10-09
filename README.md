@@ -5,12 +5,17 @@ Quick Subtitle using AI
 ## Quickstart
 
  1. install packages
-   1. whisper : https://github.com/guillaumekln/faster-whisper
-   2. pytorch : https://pytorch.org/get-started/locally
-   3. transformers : https://github.com/huggingface/transformers
-   4. ffmpeg-python : https://github.com/kkroening/ffmpeg-python
- 2. download ffmpeg or add to path
- 3. run Quick.py!
+    1. whisper : https://github.com/guillaumekln/faster-whisper
+    2. pytorch : https://pytorch.org/get-started/locally
+    3. transformers : https://github.com/huggingface/transformers
+    4. ffmpeg-python : https://github.com/kkroening/ffmpeg-python
+ 2. download ffmpeg same path or add to path
+    1. like this
+       ```
+       D:\QuickSubtitle 
+       [.]          ffmpeg.exe   Quick.py
+       ```
+ 4. run Quick.py!
 
 ## how to use
 

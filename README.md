@@ -9,7 +9,7 @@ Quick Subtitle using AI
     2. pytorch : https://pytorch.org/get-started/locally
     3. transformers : https://github.com/huggingface/transformers
     4. ffmpeg-python : https://github.com/kkroening/ffmpeg-python
- 2. download ffmpeg same path or add to path
+ 2. download ffmpeg same path or add to path : https://ffmpeg.org/download.html
     1. like this
        ```
        D:\QuickSubtitle 
